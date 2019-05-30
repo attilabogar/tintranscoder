@@ -4,11 +4,14 @@ Tin (Audio Album) Transcoder
 
 [![Build Status][1]][2]
 [![SonarCloud Status][3]][4]
+[![Coverage Status][5]][6]
 
 [1]: https://travis-ci.org/attilabogar/tintranscoder.svg?branch=master
 [2]: https://travis-ci.org/attilabogar/tintranscoder
 [3]: https://sonarcloud.io/api/project_badges/measure?project=attilabogar_tintranscoder&metric=alert_status
 [4]: https://sonarcloud.io/dashboard?id=attilabogar_tintranscoder
+[5]: https://codecov.io/gh/attilabogar/tintranscoder/branch/master/graph/badge.svg
+[6]: https://codecov.io/gh/attilabogar/tintranscoder
 
 
 ## Description
