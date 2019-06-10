@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# git-pair
+.gitauthors
+
+# vscode
+.vscode/
