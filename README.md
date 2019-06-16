@@ -34,15 +34,15 @@ CD album transcoder prototype implemented in python 3
 Prototype - Work in Progress
 
 
-## TODO
+## Command line usage
 
-+ tests
-  + unit tests
-  + doctests
-  + coverage
-  + pyflakes
-+ type hints
-+ usage
+Run `./tintranscoder.py` to get full command line reference.
+
+
+## Example
+
+`./tintranscoder.py --downmix --copycover --dst-aac=/data/dst/aac /data/src1 /data/src2`
+
 
 ## License
 
